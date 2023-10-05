@@ -8,3 +8,11 @@
 
 - I can't use Heroku so I switched to Vercel.
 - This post was created by Duy Nghia - 20IT323
+
+# node-express-vercel
+
+Hosting express node project on vercel
+
+### Deployed on
+
+>
