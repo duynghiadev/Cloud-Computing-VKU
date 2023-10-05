@@ -1,7 +1,6 @@
-# Requiment exercise 8
+# Requiment exercise 8 🧾
 
-- heroku-node
-- Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
+- Deploy NodeJS to Heroku by using Heroku CLI
 
 ---
 
