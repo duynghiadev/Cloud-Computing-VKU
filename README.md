@@ -2,6 +2,10 @@
 
 - Deploy NodeJS to Heroku by using Heroku CLI
 
+- Vì heroku thu phí nên em chuyển qua deploy trên vercel
+
+- **Lưu ý: khi quay video phải quay phần login vào heroku 👉 quay phần add thẻ visa 👉 nói em không có thẻ visa 👉 sau đó chuyển qua vercel** 
+
 ---
 
 ## ⚠ Warning ⚠
