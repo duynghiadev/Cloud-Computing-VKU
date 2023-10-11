@@ -4,7 +4,7 @@
 
 - Vì heroku thu phí nên em chuyển qua deploy trên vercel
 
-- **Lưu ý: khi quay video phải quay phần login vào heroku 👉 quay phần add thẻ visa 👉 nói em không có thẻ visa 👉 sau đó chuyển qua vercel** 
+- **Lưu ý: khi quay video phải quay phần login vào heroku 👉 quay phần add thẻ visa 👉 nói em không có thẻ visa 👉 sau đó chuyển qua vercel**
 
 ---
 
@@ -106,4 +106,3 @@ Sau khi đã cấu hình và chèn mã code, bạn có thể triển khai ứng 
 ## Kết Luận
 
 Bằng cách làm theo các bước trên, bạn đã triển khai thành công một dự án Node.js sử dụng framework Express trên nền tảng Vercel. Ứng dụng của bạn hiện đã sẵn sàng chạy trực tuyến và có thể truy cập qua URL được cung cấp bởi Vercel.
-1
